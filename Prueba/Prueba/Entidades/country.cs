@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Prueba.Entidades
 {
-    class country
+    public class country
     {
+        public int country_id { get; set; }
+        public string country_name { get; set; }
+        public DateTime last_update { get; set; }
+
     }
 }

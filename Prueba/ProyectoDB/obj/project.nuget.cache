@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "90MNGZCG98wKI/PQXVYbN62RD7AJHtNaJB6UwDx4qzI+cLEIVDdsOcxmUAXrhZUEypC2+0mcWfPSghvmydooUg==",
+  "dgSpecHash": "xXgl8rSlAUf7jwIYqKDNfcYFPEeBdCE7QppQ++e6gIXrWWlKzXUuoU9pH0+/KntCTNeM6ghvg7sV7wbG5KQh+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlo\\source\\repos\\Prueba\\ProyectoDB\\PruebaConsola.csproj",
+  "projectFilePath": "C:\\Users\\carlo\\Documents\\GitHub\\PruebaVisual2\\Prueba\\ProyectoDB\\PruebaConsola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

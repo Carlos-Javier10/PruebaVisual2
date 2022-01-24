@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Prueba.Entidades
 {
-    class payment
+    public class payment
     {
+        public int payment_id { get; set; }
+        public int customers_id { get; set; }
+        public int staff_id { get; set; }
+        public int rental_id { get; set; }
+        public decimal amount { get; set; }
+        public DateTime payment_date { get; set; }
+
+
+
     }
 }

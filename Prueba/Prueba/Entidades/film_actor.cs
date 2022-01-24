@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Prueba.Entidades
 {
-    class film_actor
+    public class film_actor
     {
+        public int actor_id { get; set; }
+        public int film_id { get; set; }
+        public DateTime last_update { get; set; }
+
     }
 }
