@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba", "Prueba\Prueba.csproj", "{C842B0C4-8000-490D-A1AC-9B221CAC4911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaConsola", "ProyectoDB\PruebaConsola.csproj", "{AA56550F-2AFC-41DD-AB07-B63988F4BE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaDB", "PruebaDB\PruebaDB.csproj", "{7922E4B0-6166-4B2E-A013-8B82C73591A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C842B0C4-8000-490D-A1AC-9B221CAC4911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C842B0C4-8000-490D-A1AC-9B221CAC4911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C842B0C4-8000-490D-A1AC-9B221CAC4911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C842B0C4-8000-490D-A1AC-9B221CAC4911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA56550F-2AFC-41DD-AB07-B63988F4BE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA56550F-2AFC-41DD-AB07-B63988F4BE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA56550F-2AFC-41DD-AB07-B63988F4BE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA56550F-2AFC-41DD-AB07-B63988F4BE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7922E4B0-6166-4B2E-A013-8B82C73591A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7922E4B0-6166-4B2E-A013-8B82C73591A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7922E4B0-6166-4B2E-A013-8B82C73591A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7922E4B0-6166-4B2E-A013-8B82C73591A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3925FE-BA14-416B-A06B-20F3632AAAF4}
+	EndGlobalSection
+EndGlobal
