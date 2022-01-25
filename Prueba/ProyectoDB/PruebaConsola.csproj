@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PruebaDB\PruebaDB.csproj" />
     <ProjectReference Include="..\Prueba\Prueba.csproj" />
   </ItemGroup>
 

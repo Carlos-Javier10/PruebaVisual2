@@ -12,7 +12,7 @@ namespace Prueba.Entidades
         public int customers_id { get; set; }
         public int staff_id { get; set; }
         public int rental_id { get; set; }
-        public decimal amount { get; set; }
+        public double amount { get; set; }
         public DateTime payment_date { get; set; }
 
 

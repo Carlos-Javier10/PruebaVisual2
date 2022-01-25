@@ -1494,6 +1494,19 @@
         "runtime": {
           "bin/placeholder/Prueba.dll": {}
         }
+      },
+      "PruebaDB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Prueba": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PruebaDB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PruebaDB.dll": {}
+        }
       }
     }
   },
@@ -5711,11 +5724,17 @@
       "type": "project",
       "path": "../Prueba/Prueba.csproj",
       "msbuildProject": "../Prueba/Prueba.csproj"
+    },
+    "PruebaDB/1.0.0": {
+      "type": "project",
+      "path": "../PruebaDB/PruebaDB.csproj",
+      "msbuildProject": "../PruebaDB/PruebaDB.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Prueba >= 1.0.0"
+      "Prueba >= 1.0.0",
+      "PruebaDB >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5745,6 +5764,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\carlo\\Documents\\GitHub\\PruebaVisual2\\Prueba\\PruebaDB\\PruebaDB.csproj": {
+              "projectPath": "C:\\Users\\carlo\\Documents\\GitHub\\PruebaVisual2\\Prueba\\PruebaDB\\PruebaDB.csproj"
+            },
             "C:\\Users\\carlo\\Documents\\GitHub\\PruebaVisual2\\Prueba\\Prueba\\Prueba.csproj": {
               "projectPath": "C:\\Users\\carlo\\Documents\\GitHub\\PruebaVisual2\\Prueba\\Prueba\\Prueba.csproj"
             }
